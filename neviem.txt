@@ -1,1 +1,4 @@
 Ahoj ako sa mas?
+Issue: #1
+
+Ja sa mam dobre :) 
